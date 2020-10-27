@@ -1,4 +1,4 @@
-# Сайт оффлайн библиотеки
+# Сайт офлайн библиотеки
 
 Сайт для GitHub-Pages из проекта [offline-library](https://github.com/v1ztep/offline-library)
 
