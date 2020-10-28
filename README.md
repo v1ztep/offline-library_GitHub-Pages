@@ -16,3 +16,14 @@
 ![sample text](https://i.ibb.co/D17NsJ1/Settings-Git-Hub-Pages.png>)
 
 Прокрутите до GitHub pages.
+![sample text](https://i.ibb.co/5RHwnYX/Settings-Git-Hub-Pages2.png)
+в выпадающем меню Source выберите main или master и нажмите save.
+
+# Доступ к сайту
+
+В течении 10 минут сайт будет доступен по ссылке:
+`https://USERNAME.github.io/REPONAME/pages/index1.html`
+
+где `USERNAME` — ваш ник на GitHub, а `REPONAME` — название репозитория на GitHub, куда вы залили свой сайт.
+
+
