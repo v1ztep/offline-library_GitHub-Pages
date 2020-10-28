@@ -7,10 +7,10 @@
 # Деплой сайта
 
 Из проекта [offline-library](https://github.com/v1ztep/offline-library) необходимо по инструкции сгенерировать сайт локально и скопировать в свой новый GitHub-репозиторий сайта -> следующие файлы:
-* /media
-* /pages
-* /static
-* favicon.ico
+- /media
+- /pages
+- /static
+- favicon.ico
 
 Зайдите в свой GitHub-репозиторий сайта и нажмите Settings.
 ![sample text](https://i.ibb.co/D17NsJ1/Settings-Git-Hub-Pages.png>)
