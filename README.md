@@ -16,6 +16,7 @@
 ![sample text](https://i.ibb.co/D17NsJ1/Settings-Git-Hub-Pages.png>)
 
 Прокрутите до GitHub pages.
+
 ![sample text](https://i.ibb.co/5RHwnYX/Settings-Git-Hub-Pages2.png)
 в выпадающем меню Source выберите main или master и нажмите save.
 
