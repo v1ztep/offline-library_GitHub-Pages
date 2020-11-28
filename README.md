@@ -18,6 +18,7 @@
 Прокрутите до GitHub pages.
 
 ![Settings-Git-Hub-Pages2.png](https://i.postimg.cc/WbbVfV25/Settings-Git-Hub-Pages2.png)
+
 в выпадающем меню Source выберите main или master и нажмите save.
 
 # Доступ к сайту
