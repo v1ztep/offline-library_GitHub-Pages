@@ -13,11 +13,11 @@
 - favicon.ico
 
 Зайдите в свой GitHub-репозиторий сайта и нажмите Settings.
-[Settings-Git-Hub-Pages.png](https://postimg.cc/ppF48qK6)
+![Settings-Git-Hub-Pages.png](https://i.postimg.cc/yYQHMGxs/Settings-Git-Hub-Pages.png)
 
 Прокрутите до GitHub pages.
 
-[Settings-Git-Hub-Pages2.png](https://postimg.cc/rzb7KvR4)
+![Settings-Git-Hub-Pages2.png](https://i.postimg.cc/WbbVfV25/Settings-Git-Hub-Pages2.png)
 в выпадающем меню Source выберите main или master и нажмите save.
 
 # Доступ к сайту
