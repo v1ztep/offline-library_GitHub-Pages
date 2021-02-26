@@ -24,7 +24,9 @@
 # Доступ к сайту
 
 В течении 10 минут сайт станет доступен по ссылке:
-`https://USERNAME.github.io/REPONAME/pages/index1.html`
+```
+https://USERNAME.github.io/REPONAME/pages/index1.html
+```
 
 где `USERNAME` — ваш ник на GitHub, а `REPONAME` — название репозитория на GitHub, куда вы залили свой сайт.
 
